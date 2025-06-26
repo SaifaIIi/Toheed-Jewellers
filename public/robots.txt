@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toheed-jewellers.netlify.app/sitemap.xml
